@@ -1,0 +1,5 @@
+pullrequestslackbot.2019-01-19.private-key.pem
+.env
+.idea/
+*.pyc
+fits_req.py
