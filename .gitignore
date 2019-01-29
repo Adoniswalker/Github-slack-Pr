@@ -3,3 +3,4 @@ pullrequestslackbot.2019-01-19.private-key.pem
 .idea/
 *.pyc
 fits_req.py
+.DS_Store
